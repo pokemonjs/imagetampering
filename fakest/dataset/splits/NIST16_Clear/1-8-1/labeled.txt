@@ -1,0 +1,4 @@
+D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/images/0.jpg	D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/mask/0.png
+D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/images/1.jpg	D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/mask/1.png
+D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/images/103.jpg	D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/mask/103.png
+D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/images/106.jpg	D:/Pokemonjs/Work/FAKEDATA/NIST16_Clear/train/mask/106.png

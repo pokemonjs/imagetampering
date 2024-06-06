@@ -1,0 +1,8 @@
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/14t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/14t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/21t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/21t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/28t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/28t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/34t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/34t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/36t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/36t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/6t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/6t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/80t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/80t.png
+D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/images/9t.tif	D:/Pokemonjs/Work/FAKEDATA/COVERAGE_AUG/val/mask/9t.png
